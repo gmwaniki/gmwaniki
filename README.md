@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @gmwaniki
+- 👋 Hi, I’m George
 - 👀 I’m interested in Web development with Typescript,React and Tailwind
 - 🌱 I’m currently learning Testing in Javascript and React.
 - 💬 Ask me about React,Node js,Typescript and CSS
