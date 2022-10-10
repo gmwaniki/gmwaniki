@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m George
-- 👀 I’m interested in Web development with Typescript,React and Tailwind
+- 👀 I’m interested in Web development with Typescript,Angular,Vue and Tailwind
 - 🌱 I’m currently learning Testing in Javascript and React.
-- 💬 Ask me about React,Node js,Typescript and CSS
+- 💬 Ask me about React,Vue,Angular,Node js,Typescript and CSS
 - 📫 How to reach me: georgenmwaniki@gmail.com
