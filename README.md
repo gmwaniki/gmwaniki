@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m George
 - 👀 I’m interested in Web development with Typescript,Angular,Vue and Tailwind
-- 🌱 I’m currently learning Testing in Javascript and React.
+- 🌱 I’m currently learning Angular.
 - 💬 Ask me about React,Vue,Angular,Node js,Typescript and CSS
 - 📫 How to reach me: georgenmwaniki@gmail.com
