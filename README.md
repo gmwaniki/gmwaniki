@@ -8,12 +8,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with 
+- 👀 I’m interested in Web development with Typescript,Angular,Vue and Tailwind
+- 🌱 I’m currently learning Angular.
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m George
-- 👀 I’m interested in Web development with Typescript,Angular,Vue and Tailwind
-- 🌱 I’m currently learning Angular.
+
 - 💬 Ask me about React,Vue,Angular,Node js,Typescript,C# and CSS
 - 📫 How to reach me: georgenmwaniki@gmail.com
