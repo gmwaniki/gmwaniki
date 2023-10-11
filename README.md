@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about React,Vue,Angular,Node js,Typescript,C# and CSS
 - 📫 How to reach me: georgenmwaniki@gmail.com
+  
+![Visitor Count](https://profile-counter.glitch.me/gmwaniki/count.svg)
