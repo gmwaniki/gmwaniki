@@ -1,5 +1,8 @@
-### Hi there 👋
+<!---<h1 align="center" style="text-decoration:none;"> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"> </h1> 
 
+<p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="200" height="200" />
+</p>
+-->
 <!--
 **gmwaniki/gmwaniki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,10 +16,13 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-- 👋 Hi, I’m George
-
-- 💬 Ask me about React,Vue,Angular,Node js,Typescript,C# and CSS
-- 📫 How to reach me: georgenmwaniki@gmail.com
-  
 ![](https://komarev.com/ghpvc/?username=gmwaniki&style=for-the-badge)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="25" height="25" /> Ask me about React,Vue,Angular,Node js,Typescript,C# and CSS
+-->
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" /> Hi, I’m George
+
+
+  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> How to reach me: georgenmwaniki@gmail.com
+  
+
